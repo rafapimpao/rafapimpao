@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rafapimpao/rafapimpao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafapimpao/rafapimpao/main/snake.svg" />
 
 ###
